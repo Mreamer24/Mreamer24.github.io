@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: 
 # favicon: images/favicon.ico
 
 # Personal info
@@ -9,8 +9,8 @@ email: mpreamer@mix.wvu.edu
 website: www.github.com/mreamer24
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username:  Mreamer24
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
