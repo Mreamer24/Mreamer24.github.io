@@ -4,4 +4,4 @@
   quote: >
     This is a Model View Controler application created in visual studio using C#.
   description: | # this will include new lines to allow paragraphs
-    This is an in-class project that was created over the span of 2 semesters. It is a school course scheduling application web application complete with a SQL server database connection to store data added, removed, or edited in the application.
+    This is an in-class project that was created over the span of 2 semesters. It is a school course scheduling web application complete with a SQL server database connection to store data added, removed, or edited in the application.
